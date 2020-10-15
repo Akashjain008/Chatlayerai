@@ -2,6 +2,10 @@
 
 The EchoBot is a tiny chatbot that repeats anything you say to it.
 
+```
+App Demo:
+````
+![Empty Screen](/fullstack/echobot.gif "EchoBot")
 
 ### Backend
 
@@ -57,5 +61,4 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-App Demo:
-![Empty Screen](/fullstack/echobot.gif "EchoBot")
+
